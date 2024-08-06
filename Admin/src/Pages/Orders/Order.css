@@ -1,0 +1,18 @@
+.container{
+    display: flex;
+    justify-content: space-around;
+    max-width: 90vw;
+
+
+    border: 2px solid tomato;
+    margin: 50px;
+}.food-item{
+    /* display: flex; */
+    /* border: 1px solid black; */
+    padding: 10px;
+
+}.food-item p img{
+    width: 100px;
+    height: 100px;
+    border: 1px solid tomato;
+}

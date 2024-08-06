@@ -1,0 +1,13 @@
+.list-table{
+    padding: 25px;
+}
+
+.list-table-format{
+    padding: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 2fr 1fr 1fr;
+}.list-table-format img{
+    width: 50px;
+    height: 50px;
+}
+    
